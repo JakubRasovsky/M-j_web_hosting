@@ -1,0 +1,13 @@
+body {
+    max-width: 800px;
+    margin:auto;
+}
+#hlavicka {
+    border: 2px solid black;
+    padding: 10px;
+    margin: auto;
+    max-width: 500px;
+    background-color: rgb(220, 207, 207);
+    display: space-between;
+    justify-content: ;
+}
